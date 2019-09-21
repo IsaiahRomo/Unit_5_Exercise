@@ -23,13 +23,7 @@ div.row::after{
    content:"";
    display:table;
 }
-body > header > img{
-   display: block;
-   width: 100%;
-}
-body .horizontalNavigation{
-   width: 20%;
-}
+
 
 /* Grid Columns Styles */
 
